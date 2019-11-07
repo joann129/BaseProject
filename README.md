@@ -1,6 +1,6 @@
 # BaseProject-Cpp
-[![Build Status](https://travis-ci.org/yuhan1999/BaseProject.svg?branch=master)](https://travis-ci.org/yuhan1999/BaseProject)
-[![codecov](https://codecov.io/gh/yuhan1999/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/yuhan1999/BaseProject)
+[![Build Status](https://travis-ci.org/noyo1018/BaseProject.svg?branch=master)](https://travis-ci.org/noyo1018/BaseProject)
+[![codecov](https://codecov.io/gh/noyo1018/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/noyo1018/BaseProject)
 
 分組專題基本樣板(C++)
 
